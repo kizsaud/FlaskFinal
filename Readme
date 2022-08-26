@@ -1,0 +1,30 @@
+Documentation
+
+Logfile Analyzer tool 
+
+
+Author: Khizar Saud
+
+
+Attention: For this program to work please open App.py, and set the respective path variables in the following lines relating 
+
+to where you want the tool to run from 
+
+#27 :
+
+UPLOAD_FOLDER = r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/UPLOAD_FOLDER'
+
+#64
+
+zipref.extractall(r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/UPLOAD_FOLDER')
+
+#84
+
+name=r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/UPLOAD_FOLDER\TaskLog.Task-1'
+
+#141
+
+tempopen=open(r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/templates/htmlfile.html','w+')
+
+
+
