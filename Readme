@@ -27,4 +27,4 @@ name=r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/UPLOAD_FOLDER\TaskLog.Task-
 tempopen=open(r'/ws/viselvar-sjc/test/logfile22/NEWFLASK-MAIN/templates/htmlfile.html','w+')
 
 
-
+Test logfiles are given in the testfolder 
